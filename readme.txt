@@ -13,7 +13,7 @@ In github zuerst auf "Code" drücken und dann auf download zip. Die Dateien werd
 8. Client starten und checken, ob er eine Fehlermeldung zeigt - Hoffentlich nicht ;-)
 9. Client schließen 
 10. Jetzt in das Verzeichnis "01 - INSTALL_FIRST" gehen und den Iris Installer starten (02 - Iris-Installer-2.0.3.jar).
-	Wenn er der Installer startet weiter mit Punkt 12. 
+	Wenn der Installer startet weiter mit Punkt 12. 
 	Falls bei Doppelklick nichts passiert, vorher JVM runderladen und den Computer neu starten. 
 	z.B von hier: https://www.chip.de/downloads/Java-Runtime-Environment-64-Bit_42224883.html. 
 	Nach dem Neustart nochmal Iris Installer starten.
