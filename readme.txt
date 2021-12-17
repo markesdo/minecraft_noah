@@ -13,9 +13,11 @@ Hi Ho!
 	vorher JVM runderladen und den Computer neu starten. 
 	z.B von hier: https://www.chip.de/downloads/Java-Runtime-Environment-64-Bit_42224883.html
 	Nach dem Neustart nochmal Installer starten. (Immer Minecraft 1.18 verwenden)
+		a. Version 1.18 wählen und für Forge-Mode anticken
+		b. Installieren
 	Nach der Installation von Iris Client starten.
-11. Iris optimiert deine Framerat und erlaubt shader.
-12. Deine Mods Client und/oder Server Side sind im Punkt Mods im Hauptmenü zu finden.
+11. Iris optimiert deine Framerat und erlaubt Shader.
+12. Deine Mods Client-Side und/oder Server-Side sind im Punkt Mods im Hauptmenü zu finden.
 
 Have fun!
 
