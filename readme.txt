@@ -26,7 +26,7 @@ In github zuerst auf "Code" drücken und dann auf download zip. Die Dateien werd
 
 Have fun!
 
-P.S. Wenn Du das erste Mal auf den Server kommst, musst du Noah kontaktieren, dass er deine Zugriffsrechte einschaltet. Auf dem Server ist WorldEdit installiert. Um es nutzen zu können musst Du im Creativ Modus sein.
+P.S. Wenn Du das erste Mal auf den Server kommst, musst du Noah kontaktieren, dass er deine Zugriffsrechte einschaltet. Auf dem Server ist WorldEdit installiert. Um es nutzen zu können, musst Du im Creativ Modus sein.
 
 
 
